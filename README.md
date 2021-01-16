@@ -1,5 +1,7 @@
 # Bike_share_system
 
+Product group: Zhaonian, Haian, Tianjiao, Mayuri
+Report group: Boyang, Xingchen, Guicheng
 
 All the source code about the project please add to 'source_code',
 all other supporting documents please add to 'files'.
